@@ -1,0 +1,21 @@
+.profile {
+	padding-right: 100px;
+	padding-left: 100px;
+	font-style: italic;
+}
+.address {
+	padding-right: 50px;
+	padding-left: 50px;
+}
+.employment {
+	padding-left: 75px;
+}
+.related-experience {
+	padding-left: 75px;
+}
+.skills {
+	padding-left: 75px;
+}
+.resume{
+	background-color: #efefef;
+}
