@@ -6,7 +6,8 @@ header {
 	border-bottom-color: #000;
 }
 img {
-	float: top-right;
+	float: top;
+	float: right;
 	margin: 10px 10px 10px 10px;
 }
 .p1 {
