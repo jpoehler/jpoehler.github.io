@@ -6,7 +6,7 @@ header {
 	border-bottom-color: #000;
 }
 img {
-	display: top right;
+	position: top right;
 	margin: 10px 10px 10px 10px;
 }
 .p1 {
