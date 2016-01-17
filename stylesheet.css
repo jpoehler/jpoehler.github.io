@@ -5,11 +5,11 @@ header {
 	border-bottom-width; .5px;
 	border-bottom-color: #000;
 }
-img {
+figure {
 	position: top right;
 	margin: 10px 10px 10px 10px;
 }
-.p1 {
+p1 {
 	margin-top: 15px;
 	margin-left: 60px;
 	margin-bottom: 15px;
@@ -33,6 +33,11 @@ section {
 
 main {
 	background-color: #f0f0f5;
-	font-family: Arial, Verdana, sans-serif;
 	border-radius: 10px 10px 10px 10px;
+}
+@font-face {
+	font-family: "OpenSansRegular";
+	src: url("OpenSansRegular-webfont.eot")
+	font-style: normal;
+	font-weight: regular;
 }
