@@ -1,10 +1,12 @@
 header {
 	padding-right: 50px;
 	padding-left: 50px;
-	border-bottom: solid 1px #000;
+	border-bottom-style: solid;
+	border-bottom-width; 1px;
+	border-bottom-color: #000;
 }
 img {
-	float: right;
+	float: top-right;
 	margin: 10px 10px 10px 10px;
 }
 
@@ -20,5 +22,5 @@ section {
 
 main {
 	background-color: #e0e0eb;
-	font-family: sans-serif;
+	font-family: Arial, Verdana, sans-serif;
 }
