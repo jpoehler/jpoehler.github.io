@@ -5,15 +5,15 @@ header {
 	border-bottom-width; .5px;
 	border-bottom-color: #000;
 }
-.img {
-	position: top right;
+figure {
+	position: right center;
 }
 p1 {
 	margin-top: 15px;
 	margin-left: 60px;
 	margin-bottom: 15px;
 	margin-right: 60px;
-	font-size: 15px;
+	font-size: 20px;
 	font-style: italic;
 }
 
