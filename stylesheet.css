@@ -4,9 +4,10 @@ header {
 	border-bottom-style: solid;
 	border-bottom-width; .5px;
 	border-bottom-color: #000;
+	figure: center right;
 }
 
-.p1 {
+p1 {
 	margin-top: 15px;
 	margin-left: 60px;
 	margin-bottom: 15px;
