@@ -11,7 +11,7 @@ img {
 }
 
 article {
-	padding-top: 5px;
+	padding-top: 10px;
 	padding-right: 50px;
 	padding-left: 50px;
 	padding-bottom: 10px;
@@ -19,11 +19,12 @@ article {
 
 
 section {
+	margin: 5px;
 	padding-left: 75px;
 }
 
 main {
-	background-color: #e0e0eb;
+	background-color: #f0f0f5;
 	font-family: Arial, Verdana, sans-serif;
 	border-radius: 5px 5px 5px 5px;
 }
