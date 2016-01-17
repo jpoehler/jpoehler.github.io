@@ -9,6 +9,12 @@ img {
 	float: top-right;
 	margin: 10px 10px 10px 10px;
 }
+.p1 {
+	margin-top: 15px;
+	margin-left: 60px;
+	margin-bottom: 15px;
+	margin-right: 60px;
+}
 
 article {
 	padding-top: 10px;
